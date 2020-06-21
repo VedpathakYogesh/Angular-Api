@@ -1,0 +1,56 @@
+<p>searchdata works!</p>
+
+<div class="row">    
+    <div class="col-sm-12 btn btn-primary">    
+   How to  Search Data Between Two Dates Using Web API and Angular 9  
+    </div>    
+  </div>   
+   
+    <form #addClientForm="ngForm" (ngSubmit)="searchdata()" novalidate>  
+      <div class="row" style="margin-top:10px;margin-bottom: 10px;">    
+        <div class="col-sm-3 form-group">  </div>  
+    <div class="col-sm-3 form-group">    
+        <input  
+        type="text" #startdate="ngModel" name="startdate"  
+        [(ngModel)]="model.startdate"   
+        placeholder="From Date"  
+        bsDatepicker  
+        [bsConfig]="{ isAnimated: true }" class="form-control"/>  
+    </div>     
+    <div class="col-sm-3 form-group">    
+        <input type="text"  #enddate="ngModel" name="enddate"  
+        [(ngModel)]="model.enddate"   
+        placeholder="To Date"  
+         
+        bsDatepicker  
+        [bsConfig]="{ isAnimated: true }"  class="form-control"/>  
+    </div>    
+    <div class="col-sm-3 form-group">    
+        <button type="submit" class="btn btn-success" >Search</button>   
+    </div>  
+  </div>  
+    </form>   
+  
+  <table class="table">  
+    <thead class="thead-dark">  
+      <tr>  
+        <th scope="col">Id</th>  
+        <th scope="col">Name</th>  
+        <th scope="col">City</th>  
+        <th scope="col">JoiningDate</th>  
+      </tr>  
+    </thead>  
+    <tbody>  
+      <tr *ngFor="let emp of emp">  
+        <th scope="row">{{emp.Id}}</th>  
+        <td>{{emp.Name}}</td>  
+        <td>{{emp.City}}</td>  
+        <td>{{emp.JoiningDate | date:'yyyy-MM-dd'}}</td>  
+      </tr>  
+      <tr *ngIf="!emp||emp.length==0">  
+        <td colspan="4">  
+            No Data Found  
+        </td>  
+      </tr>  
+    </tbody>  
+  </table>

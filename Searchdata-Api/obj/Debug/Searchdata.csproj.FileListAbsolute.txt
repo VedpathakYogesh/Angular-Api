@@ -1,0 +1,244 @@
+D:\Apps\WebApiProjects\Searchdata\bin\Searchdata.dll.config
+D:\Apps\WebApiProjects\Searchdata\bin\Searchdata.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Searchdata.pdb
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\csc.exe
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\csc.exe.config
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\csc.rsp
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\csi.exe
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\csi.exe.config
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\csi.rsp
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.AppContext.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Collections.Immutable.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Console.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Globalization.Calendars.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.IO.Compression.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.IO.FileSystem.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Net.Http.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Net.Sockets.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Reflection.Metadata.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.ValueTuple.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Xml.XPath.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\vbc.exe
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\vbc.exe.config
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\vbc.rsp
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\VBCSCompiler.exe
+D:\Apps\WebApiProjects\Searchdata\bin\roslyn\VBCSCompiler.exe.config
+D:\Apps\WebApiProjects\Searchdata\bin\Antlr3.Runtime.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Web.Infrastructure.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Newtonsoft.Json.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Net.Http.Formatting.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Helpers.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Http.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Http.WebHost.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Mvc.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Optimization.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Razor.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.WebPages.Deployment.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.WebPages.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.WebPages.Razor.dll
+D:\Apps\WebApiProjects\Searchdata\bin\WebGrease.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Newtonsoft.Json.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Net.Http.Formatting.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Helpers.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Http.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Http.WebHost.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Mvc.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Optimization.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Razor.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.WebPages.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.WebPages.Deployment.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.WebPages.Razor.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Antlr3.Runtime.pdb
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Apps\WebApiProjects\Searchdata\obj\Debug\Searchdata.csprojAssemblyReference.cache
+D:\Apps\WebApiProjects\Searchdata\obj\Debug\Searchdata.csproj.CopyComplete
+D:\Apps\WebApiProjects\Searchdata\obj\Debug\Searchdata.dll
+D:\Apps\WebApiProjects\Searchdata\obj\Debug\Searchdata.pdb
+D:\Apps\WebApiProjects\Searchdata\bin\EntityFramework.dll
+D:\Apps\WebApiProjects\Searchdata\bin\EntityFramework.SqlServer.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.Options.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.Primitives.dll
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Net.Http.Headers.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Buffers.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.ComponentModel.Annotations.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Memory.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Numerics.Vectors.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Text.Encodings.Web.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Cors.dll
+D:\Apps\WebApiProjects\Searchdata\bin\EntityFramework.xml
+D:\Apps\WebApiProjects\Searchdata\bin\EntityFramework.SqlServer.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.Options.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Extensions.Primitives.xml
+D:\Apps\WebApiProjects\Searchdata\bin\Microsoft.Net.Http.Headers.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Buffers.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Memory.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Numerics.Vectors.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Text.Encodings.Web.xml
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Http.Cors.dll
+D:\Apps\WebApiProjects\Searchdata\bin\System.Web.Http.Cors.xml
+D:\Search Opeartions\Searchdata-Api\bin\Searchdata.dll.config
+D:\Search Opeartions\Searchdata-Api\bin\Searchdata.dll
+D:\Search Opeartions\Searchdata-Api\bin\Searchdata.pdb
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\csc.exe
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\csc.exe.config
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\csc.rsp
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\csi.exe
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\csi.exe.config
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\csi.rsp
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.AppContext.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Console.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Globalization.Calendars.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.IO.Compression.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Net.Http.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Net.Sockets.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.ValueTuple.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Xml.XPath.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\vbc.exe
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\vbc.exe.config
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\vbc.rsp
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\VBCSCompiler.exe
+D:\Search Opeartions\Searchdata-Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Search Opeartions\Searchdata-Api\bin\Antlr3.Runtime.dll
+D:\Search Opeartions\Searchdata-Api\bin\EntityFramework.dll
+D:\Search Opeartions\Searchdata-Api\bin\EntityFramework.SqlServer.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.Options.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.Primitives.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Net.Http.Headers.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Search Opeartions\Searchdata-Api\bin\Newtonsoft.Json.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Buffers.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.ComponentModel.Annotations.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Memory.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Net.Http.Formatting.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Numerics.Vectors.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Text.Encodings.Web.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Cors.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Helpers.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Http.Cors.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Http.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Http.WebHost.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Mvc.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Optimization.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Razor.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.WebPages.Deployment.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.WebPages.dll
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.WebPages.Razor.dll
+D:\Search Opeartions\Searchdata-Api\bin\WebGrease.dll
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Search Opeartions\Searchdata-Api\bin\EntityFramework.xml
+D:\Search Opeartions\Searchdata-Api\bin\EntityFramework.SqlServer.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.Options.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Extensions.Primitives.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.Net.Http.Headers.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Buffers.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Memory.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Numerics.Vectors.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Text.Encodings.Web.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Http.Cors.xml
+D:\Search Opeartions\Searchdata-Api\bin\Newtonsoft.Json.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Net.Http.Formatting.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Helpers.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Http.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Http.WebHost.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Mvc.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Optimization.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.Razor.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.WebPages.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.WebPages.Deployment.xml
+D:\Search Opeartions\Searchdata-Api\bin\System.Web.WebPages.Razor.xml
+D:\Search Opeartions\Searchdata-Api\bin\Antlr3.Runtime.pdb
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Search Opeartions\Searchdata-Api\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Search Opeartions\Searchdata-Api\obj\Debug\Searchdata.csprojAssemblyReference.cache
+D:\Search Opeartions\Searchdata-Api\obj\Debug\Searchdata.csproj.CopyComplete
+D:\Search Opeartions\Searchdata-Api\obj\Debug\Searchdata.dll
+D:\Search Opeartions\Searchdata-Api\obj\Debug\Searchdata.pdb
